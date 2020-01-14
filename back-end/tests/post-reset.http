@@ -1,0 +1,3 @@
+### POST /reset
+POST http://localhost:8080/reset
+Content-Type: application/json
